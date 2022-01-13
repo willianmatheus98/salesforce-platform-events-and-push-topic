@@ -40,18 +40,18 @@ Reference: https://developer.salesforce.com/docs/atlas.en-us.platform_events.met
 
 ```json
 {
-    "event": {
-        "createdDate": "2022-01-13T14:47:17.541Z",
-        "replayId": 2,
-        "type": "updated"
-    },
-    "sobject": {
-        "Status": "Closed",
-        "AccountId": "0015Y00002iqcmQQAQ",
-        "Comments": "Test",
-        "CaseNumber": "00001029",
-        "Id": "5005Y000023Xg86QAC"
-    }
+    "event": {
+        "createdDate": "2022-01-13T14:47:17.541Z",
+        "replayId": 2,
+        "type": "updated"
+    },
+    "sobject": {
+        "Status": "Closed",
+        "AccountId": "0015Y00002iqcmQQAQ",
+        "Comments": "Test",
+        "CaseNumber": "00001029",
+        "Id": "5005Y000023Xg86QAC"
+    }
 }
 
 ```
